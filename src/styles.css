@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.active-link {
+  color: red;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
